@@ -1,8 +1,6 @@
 From ubuntu
 
-MAINTAINER Akanksha/akankshaS542@gmail.com
-
-RUN apt-get update 
+MAINTAINER Akanksha Srivastava/akankshaS542@gmail.com
 
 CMD /bin/echo "Hello"
 
